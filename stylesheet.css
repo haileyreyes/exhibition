@@ -1,0 +1,90 @@
+p{
+font-size: 20px; 
+font-family: Gerogia; 
+color:  #789FF5;
+
+}
+
+body { 
+  background-color: #DFCFE8;
+}
+
+h1{
+	color: #466995; 
+	font-size: 100px;
+	font-family: Georgia; 
+	border: 10px solid #466995;
+}
+h2 {
+	color: #789FF5;
+	font-size: 30px; 
+	font-family: Georgia; 
+}
+h3 {
+ color: #466995; 
+	font-size: 70px;
+	font-family: Varela Round; 
+	border: 10px solid #466995;
+	margin-top: 10px;
+}
+h4{ 
+color: #789FF5;
+	font-size: 50px; 
+	font-family: Oswald; 
+}
+h5{
+	 color: #466995; 
+	font-size: 70px;
+	font-family: Varela Round;
+	border: 10px solid #466995;
+	margin-top: 10px;
+}
+h6{ 
+color: #789FF5;
+	font-size: 50px; 
+	font-family: Oswald; 
+}
+h7{
+	color:  #789FF5;
+	font-size: 20px;
+	font-family: Georgia;
+}
+
+.heading {
+	border: 10px solid #466995;
+}
+a{
+	color: #466995; 
+}
+img{
+	width: 500px;
+	height: 500px;
+}
+ul{ 
+ color:  #789FF5;
+ font-family: Georgia;
+ font-size: 20px;
+ margin-top: 100px;
+}
+.transcript{
+	border: 10px solid #466995;
+}
+
+.Classes {
+	font-size: 50px;
+	
+} 
+.Noel2 {
+	margin-top:10px;
+}
+
+.reflection{
+	border: 10px solid #466995;
+	
+} 
+.imageone{
+	height: 200px;
+	
+} 
+
+	
